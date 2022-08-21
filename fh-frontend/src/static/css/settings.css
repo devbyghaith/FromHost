@@ -1,0 +1,17 @@
+:root {
+    --colors-main: #ec6221;
+    --colors-backgrounds-dark: #202225;
+    --colors-backgrounds-muted: #2f3136;
+    --colors-backgrounds-light: ;
+    --colors-backgrounds-normal: #36393f;
+    --colors-text-normal: #FFFFFF;
+    --colors-text-muted: #bbbbbba2;
+    --colors-text-dark: #212529;
+    --colors-types-success: #66BB6A;
+    --colors-types-warning: #FFEE55;
+    --colors-types-danger: #EF5350;
+
+    --font-family: "Cairo", sans-serif;
+    --font-weight: 700;
+    --font-size: 1rem;
+}
